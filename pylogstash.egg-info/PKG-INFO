@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pylogstash
-Version: 0.6
+Version: 0.7
 Summary: A Python library to transfer logs using python-logtash where user need to provide logstash ip and port
 Author: Ashwak
 Requires-Python: >=3
