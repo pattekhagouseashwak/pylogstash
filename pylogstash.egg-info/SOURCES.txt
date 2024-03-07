@@ -1,0 +1,8 @@
+setup.py
+pylogstash/__init__.py
+pylogstash/logger.py
+pylogstash.egg-info/PKG-INFO
+pylogstash.egg-info/SOURCES.txt
+pylogstash.egg-info/dependency_links.txt
+pylogstash.egg-info/requires.txt
+pylogstash.egg-info/top_level.txt
